@@ -43,8 +43,6 @@ Replace `path/to/image.jpg` with the path to your input image.
 
 
 ## Acknowledgments
-
-- This implementation is based on the original YOLO algorithm by Joseph Redmon et al.
 - The pre-trained YOLO weights and configuration files are from the official Darknet repository.
 
 Feel free to contribute, report issues, or provide suggestions for improvement.
